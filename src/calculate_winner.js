@@ -1,4 +1,4 @@
-import react from "react";
+// import react from "react";
 
 /**
  * 勝利しているか判定.
